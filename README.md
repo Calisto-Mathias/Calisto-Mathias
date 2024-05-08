@@ -1,10 +1,11 @@
 # 💫 About Me:
-👨‍💻 Passionate Software Developer | 🌱 Keen Learner & Explorer<br>
+👨‍💻 Passionate Software Developer building for the future | GSoC'24 @ Haiku<br>
 📚 Studying Information Technology @ NITK-Surathkal, India<br>
 🎹 Keyboard Enthusiast | 🔢 Love Maths<br>
 🔍 Currently working on creating a new find window for the Haiku Operating System<br>
 🤖 Interested in learning Machine Learning and Blockchain<br>
 🌟 Always exploring and expanding horizons<br>
+💡 Eager to contribute to open source<br>
 
 [![](https://visitcount.itsvg.in/api?id=Calisto-Mathias&icon=2&color=6)](https://visitcount.itsvg.in)
 ## 🌐 Socials:
