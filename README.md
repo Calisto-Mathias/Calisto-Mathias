@@ -1,5 +1,6 @@
 # 💫 About Me:
-👨‍💻 Passionate Software Developer building for the future | GSoC'24 @ Haiku<br>
+👨‍💻 Passionate Software Developer building for the future <br>
+🏆 GSoC'24 @ Haiku | EthIndia'24 Winner @ Polygon zkEVM for best dApp on-chain<br>
 📚 Studying Information Technology @ NITK-Surathkal, India<br>
 🎹 Keyboard Enthusiast | 🔢 Love Maths<br>
 🔍 Currently working on creating a new find window for the Haiku Operating System<br>
