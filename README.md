@@ -3,7 +3,7 @@
 🏆 GSoC'24 @ Haiku | EthIndia'24 Winner @ Polygon zkEVM for best dApp on-chain<br>
 📚 Studying Information Technology @ NITK-Surathkal, India<br>
 🎹 Keyboard Enthusiast | 🔢 Love Maths<br>
-🔍 Currently working on creating a new find window for the Haiku Operating System<br>
+🔍 Currently venturing into the fields of Cryptography and Secure Computation.<br>
 🤖 Interested in learning Machine Learning and Blockchain<br>
 🌟 Always exploring and expanding horizons<br>
 💡 Eager to contribute to open source<br>
