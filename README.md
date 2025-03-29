@@ -1,10 +1,10 @@
 # 💫 About Me:
 👨‍💻 Passionate Software Developer building for the future <br>
-🏆 GSoC'24 @ Haiku | EthIndia'24 Winner @ Polygon zkEVM for best dApp on-chain | Summer of Bitcoin Workshop Mentee ;)<br>
+🏆 GSoC'24 @ Haiku | EthIndia'24 Winner @ Polygon zkEVM for best dApp on-chain | Summer of Bitcoin @ Braidpool ;)<br>
 📚 Studying Information Technology @ NITK-Surathkal, India<br>
 🎹 Keyboard Enthusiast | 🔢 Love Maths<br>
 🔍 Currently venturing into the fields of Cryptography and Secure Computation.<br>
-🤖 Interested in learning Machine Learning and Blockchain<br>
+🤖 Interested in learning Cryptography and Blockchain<br>
 🌟 Always exploring and expanding horizons<br>
 💡 Eager to contribute to open source<br>
 
